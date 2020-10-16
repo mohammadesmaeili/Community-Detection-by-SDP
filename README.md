@@ -1,1 +1,1 @@
-### Semidefinite Programming for CommunityDetection with Side Information (Unsupervised Learning Task)
+### Semidefinite Programming for Community Detection with Side Information (Unsupervised Learning Task)
